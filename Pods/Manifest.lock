@@ -1,0 +1,16 @@
+PODS:
+  - CRMediator (0.0.1)
+
+DEPENDENCIES:
+  - CRMediator
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - CRMediator
+
+SPEC CHECKSUMS:
+  CRMediator: 5e40770e306e01b1face5212b21b435df059fd78
+
+PODFILE CHECKSUM: 747aad01b72d6c2e27f26daf28b502e983f64425
+
+COCOAPODS: 1.5.0
